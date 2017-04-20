@@ -1,2 +1,0 @@
-# iwpa_wine
-Iwpa
